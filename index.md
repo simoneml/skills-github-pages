@@ -1,3 +1,3 @@
 ---
-title: Welcome to my blog!
+title: Simone Landry, A.A. Mathematics, Undergraduate Certificate in Data Science
 ---
